@@ -1,5 +1,5 @@
-/* element slector */
-p{
+/* /* element slector
+/* p{
 
     color: rgb(108, 195, 97);
     text-align: center;
@@ -11,4 +11,31 @@ color: aqua;
 }
 #ak{
     color: brown;
-}
+} */
+
+
+
+.container{
+    border: 1px solid black ;
+    width: 1000px;
+ }
+ .box{
+   border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+    height: 300px;
+    width: 200px;
+    margin: 50px;
+    text-align: center;
+    
+
+ }
+ .box1{
+    background-color: #999100;
+ }
+  .box2{
+    background-color: #9E2050;
+ }
+  .box3{
+    background-color: #78FFED;
+ } 
