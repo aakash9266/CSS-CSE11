@@ -1,0 +1,12 @@
+.container{
+    border: 1px solid black;
+    background-color: #d89fb9;
+    height: 300px;
+
+ }
+ .im{
+    float: left;
+ }
+ .p2{
+clear: both;
+ }
